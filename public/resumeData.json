@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Asaf Ben Gera",
+    "occupation":"2nd Year Computer Science & Entrepreneurship Student ",
+    "description":"Looking for Software a development position ",
+    "image":"profilepic.jpg",
+    "bio":"I love Basketball , I'm a tech enthusiast And a big fan of hamburgers  \uD83C\uDF54",
+    "contactmessage":"Feel free to contact me if you have any questions.",
+    "email": "asafbg2@gmail.com",
+    "phone": "054-6210099",
+    "address":{
+      "street":"Hagefen",
+      "city":"Tzofit",
+      "zip": "44925"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/asaf-ben-gera/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/asafbg2/",
+        "className":"fa fa-facebook"
+      },
+
+
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/asaf_bg/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/asaf-bg",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"IDC, Herzliya",
+        "degree":"Computer Science & Entrepreneurship",
+        "graduated":"Expected graduation: 2022",
+        "description":"GPA 82"
+      }
+    ],
+    "work":[
+      {
+        "company":"Cashback-Plus",
+        "title":"Digital Manger ",
+        "years":"2018 - 2020",
+        "description":" • Coding basic automation with Selenium\n• Writing Facebook Messenger Chatbot\n• Managing the company's Facebook page\n• Issuance and analysis of company performance reports\n• Managing the company's marketing campaigns in Mail Chimp and\nFacebook\n• Experience with Google Analytic and Tableau."
+      },
+      {
+        "company":"El-Al",
+        "title":"Ground Attendant",
+        "years":" 2017 -  2018",
+        "description":"• Highly Skilled in spoken and written English\n• Provide excellent customer service skills at all times\n• Employee of the month award\n"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60"
+      },
+      {
+        "name":"Java",
+        "level":"70"
+      },
+      {
+        "name":"Javascript",
+        "level":"50"
+      },
+      {
+        "name":"CSS",
+        "level":"50"
+      },
+      {
+        "name":"HTML5",
+        "level":"50"
+      },
+      {
+        "name":"VueJs",
+        "level":"50"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Strong",
+        "category":"my first dart app",
+        "image":"Strong.png",
+        "url":"https://github.com/asaf-bg/Strong"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
