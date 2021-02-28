@@ -19,13 +19,13 @@ class Contact extends Component {
 
          <div className="d-flex justify-content-md-center">
 
-            <div className="col col-lg-2">
+            <div className="col-xs-0 col-sm-3 col-lg-3">
 
                <h1><span>Get In Touch.</span></h1>
 
             </div>
 
-            <div className="col-4">
+            <div className="col-xs-10">
 
                   <p className="lead">{message}</p>
 
@@ -34,7 +34,7 @@ class Contact extends Component {
          </div>
 
          <div className="d-flex justify-content-md-center">
-            <div className="col col-lg-2">
+            <div className="col-xs-0 col-sm-3 col-lg-3">
 
                <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
@@ -75,20 +75,20 @@ class Contact extends Component {
            </div>
 
 
-            <aside className="col-4">
-               <div className="widget widget_contact">
+            {/*<aside className="col-4">*/}
+            {/*   <div className="widget widget_contact">*/}
 
-					   <h4>Address and Phone</h4>
-					   <p className="address" style={{fontSize:'15px'}}>
-						   {name}<br />
-						   {street} <br />
-						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
-					   </p>
-				   </div>
+			{/*		   <h4>Address and Phone</h4>*/}
+			{/*		   <p className="address" style={{fontSize:'15px'}}>*/}
+			{/*			   {name}<br />*/}
+			{/*			   {street} <br />*/}
+			{/*			   {city}, {state} {zip}<br />*/}
+			{/*			   <span>{phone}</span>*/}
+			{/*		   </p>*/}
+			{/*	   </div>*/}
 
 
-            </aside>
+            {/*</aside>*/}
       </div>
    </section>
     );

@@ -60,6 +60,7 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
     font-family: 'Corben', cursive;
+   font-size: 80px;
 
    color: #fff;
    letter-spacing: -2px;
