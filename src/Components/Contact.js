@@ -36,7 +36,7 @@ class Contact extends Component {
          <div className="d-flex justify-content-md-center">
             <div className="col-xs-0 col-sm-3 col-lg-3">
 
-               <form action="mailto:asafbg2@gmail.com" method="post" id="contactForm" name="contactForm">
+               <form action="http://formspree.io/you@email.com"  id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
