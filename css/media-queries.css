@@ -9,7 +9,7 @@
 
 /* screenwidth less than 1024px
 --------------------------------------------------------------------- */
-@media only screen and (max-width: 1024px) {
+@media only screen and (min-width: 1020px) {
 
     /* header styles
    ------------------------------------------------------------------ */
