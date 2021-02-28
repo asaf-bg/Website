@@ -28,26 +28,26 @@ class Resume extends Component {
     return (
       <section id="resume" >
           <div className=" d-flex justify-content-md-center">
-              <div className="col col-lg-2">
+              <div className="col-xs-0 col-sm-3 col-lg-3">
                   <h1><span style={{right:'10px'}}>Education</span></h1>
               </div>
-              <div className="col-4">
+              <div className="col-4 col-xs-10">
                   {education}
               </div>
           </div>
           <div className=" d-flex justify-content-md-center">
-              <div className="col col-lg-2">
+              <div className="col-xs-0 col-sm-3 col-lg-3">
                   <h1><span style={{right:'10px'}} className="text-left">Work</span></h1>
               </div>
-              <div className="col-4">
+              <div className="col-4 col-xs-10">
                   {work}
               </div>
           </div>
           <div className=" d-flex justify-content-md-center">
-              <div className="col col-lg-2">
+              <div className="col-xs-0 col-sm-3 col-lg-3">
                   <h1><span style={{right:'10px'}} className="text-left">Skills</span></h1>
               </div>
-              <div className="col-4">
+              <div className="col-4 col-xs-10">
                   <p>{skillmessage}
                   </p>
 
