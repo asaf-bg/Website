@@ -69,13 +69,10 @@
         "name":"Java",
         "level":"70"
       },
+
       {
         "name":"Javascript",
         "level":"70"
-      },
-      {
-        "name":"Javascript",
-        "level":"50"
       },
       {
         "name":"CSS",
@@ -108,7 +105,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "text":"Asaf's skills remind me of my Sky Hook",
         "user":"Kareem Abdul Jabbar"
       },
       {
